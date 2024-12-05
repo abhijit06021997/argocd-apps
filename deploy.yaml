@@ -21,6 +21,6 @@ spec:
     spec:
       containers:
       - name: my-nginx
-        image: abhijitramteke/myhtml-site:5.0.1
+        image: nginx
         ports:
         - containerPort: 80
