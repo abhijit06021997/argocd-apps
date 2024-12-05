@@ -3,6 +3,7 @@ kind: Namespace
 metadata:
   name: mysite
 ---
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
